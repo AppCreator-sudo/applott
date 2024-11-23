@@ -1,0 +1,9 @@
+{
+  "name": "My App",
+  "url": "https://appcreator-sudo-applott-2f5d.twc1.net",
+  "icon": "https://example.com/icon.png",
+  "short_description": "Description of the app",
+  "lang": "en",
+  "app_type": "web",
+  "is_testnet": true
+}
